@@ -1,7 +1,6 @@
 <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="NeoTRAN's github stats" src="https://github-readme-stats.vercel.app/api?username=NeoTRAN001&&show_icons=true" />
+    <img width="55%" align="right" alt="NeoTRAN's github stats" src = "https://github-readme-stats.vercel.app/api?username=NeoTRAN001&show_icons=true&theme=radical">
 </a>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
