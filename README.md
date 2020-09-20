@@ -17,7 +17,3 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
-<p>El universo tiene un principio, pero no un final. Infinito. Las estrellas también tienen un principio, pero su propio poder las conduce a su destrucción.
-Finito. La historia nos ha enseñado que los más sabios son los más estúpidos.
-Esto podría llamarse "La última advertencia de Dios" a aquellos que todavía resisten.</p>
