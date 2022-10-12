@@ -1,12 +1,12 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NeoTRAN001&theme=radical&hide_border=true&locale=eu&date_format=n%2Fj%5B%2FY%5D" width="800px">
+</p>
 
-<a href="https://github.com/NeoTRAN001">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoTRAN001&theme=radical" />
-</a>
-
-<a href="https://github.com/NeoTRAN001">
-    <img width="55%" align="right" alt="NeoTRAN's github stats" src = "https://github-readme-stats.vercel.app/api?username=NeoTRAN001&show_icons=true&theme=radical">
-</a>
+<p align="center">
+  <a align="center" href="https://github.com/NeoTRAN001">
+    <img width="800px" alt="NeoTRAN's github stats" src = "https://github-readme-stats.vercel.app/api?username=NeoTRAN001&show_icons=true&theme=radical">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm NeoTRAN001</h1>
 - 🌱 I’m currently learning **Python, Js, Java, C#, Solidity**
